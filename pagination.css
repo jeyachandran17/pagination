@@ -1,0 +1,13 @@
+.parent-pagination{
+    display: flex;
+    justify-content: center;
+}
+.pagination{
+    position: fixed;
+    bottom: 250px;
+}
+
+.btn-1:hover, .btn-2:hover, .btn-3:hover, .btn-4:hover, .btn-5:hover{
+    background-color:rgb(20, 135, 236);
+    border: 3px solid grey;
+}
